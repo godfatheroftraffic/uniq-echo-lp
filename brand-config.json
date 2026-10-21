@@ -33,7 +33,7 @@
     "_domain_help": "⚡ REQUIRED — Your landing page domain (lp.yourbrand.com). No trailing slash.",
     "website_url": "https://www.uniqdimensions.ca",
     "_website_url_help": "Main brand website URL. Footer logo links here and opens in new window.",
-    "gtmId": "GTM-XXXXXXX",
+    "gtmId": "GTM-WH8C6NNK",
     "_gtmId_help": "⚡ REQUIRED — Google Tag Manager container ID. Found in GTM > Admin > Container Settings.",
     "_gtmId_critical": "🚨 CRITICAL: Without a valid GTM ID, NO tracking, NO postbacks, NO retargeting fires.",
     "accent_color": "#d81f26",
@@ -41,8 +41,7 @@
     "accent_text_color": "#ffffff",
     "_accent_text_color_help": "Text color on accent-colored elements. Use #ffffff (white) or #000000 (black).",
     "copyright": "© 2026 UNIQ Dimensions. All rights reserved.",
-    "_copyright_help": "Footer copyright line. Update year and brand name annually.",
-    "_gtmId_todo": "TODO: create a NEW GTM container for UNIQ, import Carlos master export, then paste its ID here. Never reuse GTM-5VQV2339 (master) or another brand ID."
+    "_copyright_help": "Footer copyright line. Update year and brand name annually."
   },
   "branding": {
     "_comment": "🎨  ========== STEP 2: FONTS & LOGO ==========",
