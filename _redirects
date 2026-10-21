@@ -1,0 +1,4 @@
+# SPA fallback - serve index.html for all /apps/ paths
+/apps/* /index.html 200
+# But don't rewrite .json files
+/apps/*.json /:splat 200
